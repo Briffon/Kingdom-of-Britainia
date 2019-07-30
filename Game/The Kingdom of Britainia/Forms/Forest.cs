@@ -40,7 +40,6 @@ namespace The_Kingdom_of_Britainia
             }
         }
 
-
         //return to town button
         private void btnRTT_Click(object sender, EventArgs e)
         {

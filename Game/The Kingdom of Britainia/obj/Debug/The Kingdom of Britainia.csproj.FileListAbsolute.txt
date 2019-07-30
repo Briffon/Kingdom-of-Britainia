@@ -38,3 +38,27 @@ C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\D
 C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.UseItem.resources
 C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.SpellForm.resources
 C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.UseItem.resources
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\bin\Debug\The Kingdom of Britainia.exe.config
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\bin\Debug\The Kingdom of Britainia.exe.manifest
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\bin\Debug\The Kingdom of Britainia.application
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\bin\Debug\The Kingdom of Britainia.exe
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\bin\Debug\The Kingdom of Britainia.pdb
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\obj\Debug\The Kingdom of Britainia.csprojAssemblyReference.cache
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Armorycs.resources
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Fight.resources
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Forest.resources
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Form1.resources
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.General_Store.resources
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.InventoryForm.resources
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.MagicStore.resources
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Properties.Resources.resources
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.SpellForm.resources
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Town.resources
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Travel.resources
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.UseItem.resources
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\obj\Debug\The Kingdom of Britainia.csproj.GenerateResource.cache
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\obj\Debug\The Kingdom of Britainia.csproj.CoreCompileInputs.cache
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\obj\Debug\The Kingdom of Britainia.exe.manifest
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\obj\Debug\The Kingdom of Britainia.application
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\obj\Debug\The Kingdom of Britainia.exe
+D:\Shit\Documents\2019 Code\Kingdom-of-Britainia\Game\The Kingdom of Britainia\obj\Debug\The Kingdom of Britainia.pdb

@@ -12,6 +12,22 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Britton\Dropbox\The Kingdom of Britainia\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -32,6 +48,18 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>53FC88418182F8841440B315C6E0803BA5A2C4DD</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>The Kingdom of Britainia_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,110 +74,110 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Armor.cs" />
-    <Compile Include="Armorycs.cs">
+    <Compile Include="Items\Armor.cs" />
+    <Compile Include="Forms\Armorycs.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Armorycs.Designer.cs">
+    <Compile Include="Forms\Armorycs.Designer.cs">
       <DependentUpon>Armorycs.cs</DependentUpon>
     </Compile>
-    <Compile Include="Fight.cs">
+    <Compile Include="Forms\Fight.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Fight.Designer.cs">
+    <Compile Include="Forms\Fight.Designer.cs">
       <DependentUpon>Fight.cs</DependentUpon>
     </Compile>
-    <Compile Include="Fighter.cs" />
-    <Compile Include="Forest.cs">
+    <Compile Include="Player Classes\Fighter.cs" />
+    <Compile Include="Forms\Forest.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forest.Designer.cs">
+    <Compile Include="Forms\Forest.Designer.cs">
       <DependentUpon>Forest.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="Forms\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
+    <Compile Include="Forms\Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="General Store.cs">
+    <Compile Include="Forms\General Store.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="General Store.Designer.cs">
+    <Compile Include="Forms\General Store.Designer.cs">
       <DependentUpon>General Store.cs</DependentUpon>
     </Compile>
-    <Compile Include="Inventory.cs" />
-    <Compile Include="InventoryForm.cs">
+    <Compile Include="Items\Inventory.cs" />
+    <Compile Include="Forms\InventoryForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="InventoryForm.Designer.cs">
+    <Compile Include="Forms\InventoryForm.Designer.cs">
       <DependentUpon>InventoryForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Items.cs" />
-    <Compile Include="MagicStore.cs">
+    <Compile Include="Items\Items.cs" />
+    <Compile Include="Forms\MagicStore.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MagicStore.Designer.cs">
+    <Compile Include="Forms\MagicStore.Designer.cs">
       <DependentUpon>MagicStore.cs</DependentUpon>
     </Compile>
-    <Compile Include="Monster.cs" />
-    <Compile Include="Player.cs" />
-    <Compile Include="PlayerProgess.cs" />
-    <Compile Include="PotionRoundscs.cs" />
-    <Compile Include="Potions.cs" />
+    <Compile Include="Battle\Monster.cs" />
+    <Compile Include="Player Classes\Player.cs" />
+    <Compile Include="Player Classes\PlayerProgess.cs" />
+    <Compile Include="Battle\PotionRoundscs.cs" />
+    <Compile Include="Items\Potions.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SpellForm.cs">
+    <Compile Include="Forms\SpellForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SpellForm.Designer.cs">
+    <Compile Include="Forms\SpellForm.Designer.cs">
       <DependentUpon>SpellForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="SpellRounds.cs" />
-    <Compile Include="Spells.cs" />
-    <Compile Include="Town.cs">
+    <Compile Include="Battle\SpellRounds.cs" />
+    <Compile Include="Items\Spells.cs" />
+    <Compile Include="Forms\Town.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Town.Designer.cs">
+    <Compile Include="Forms\Town.Designer.cs">
       <DependentUpon>Town.cs</DependentUpon>
     </Compile>
-    <Compile Include="Travel.cs">
+    <Compile Include="Forms\Travel.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Travel.Designer.cs">
+    <Compile Include="Forms\Travel.Designer.cs">
       <DependentUpon>Travel.cs</DependentUpon>
     </Compile>
-    <Compile Include="UseItem.cs">
+    <Compile Include="Forms\UseItem.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="UseItem.Designer.cs">
+    <Compile Include="Forms\UseItem.Designer.cs">
       <DependentUpon>UseItem.cs</DependentUpon>
     </Compile>
-    <Compile Include="viewInventoryArmor.cs" />
-    <Compile Include="ViewInventoryPotion.cs" />
-    <Compile Include="ViewInventoryWeapon.cs" />
-    <Compile Include="ViewInvetoryEvent.cs" />
-    <Compile Include="Weapon.cs" />
-    <Compile Include="Wizard.cs" />
-    <EmbeddedResource Include="Armorycs.resx">
+    <Compile Include="Items\viewInventoryArmor.cs" />
+    <Compile Include="Items\ViewInventoryPotion.cs" />
+    <Compile Include="Items\ViewInventoryWeapon.cs" />
+    <Compile Include="Items\ViewInvetoryEvent.cs" />
+    <Compile Include="Items\Weapon.cs" />
+    <Compile Include="Player Classes\Wizard.cs" />
+    <EmbeddedResource Include="Forms\Armorycs.resx">
       <DependentUpon>Armorycs.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Fight.resx">
+    <EmbeddedResource Include="Forms\Fight.resx">
       <DependentUpon>Fight.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forest.resx">
+    <EmbeddedResource Include="Forms\Forest.resx">
       <DependentUpon>Forest.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
+    <EmbeddedResource Include="Forms\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="General Store.resx">
+    <EmbeddedResource Include="Forms\General Store.resx">
       <DependentUpon>General Store.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="InventoryForm.resx">
+    <EmbeddedResource Include="Forms\InventoryForm.resx">
       <DependentUpon>InventoryForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MagicStore.resx">
+    <EmbeddedResource Include="Forms\MagicStore.resx">
       <DependentUpon>MagicStore.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -161,16 +189,16 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="SpellForm.resx">
+    <EmbeddedResource Include="Forms\SpellForm.resx">
       <DependentUpon>SpellForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Town.resx">
+    <EmbeddedResource Include="Forms\Town.resx">
       <DependentUpon>Town.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Travel.resx">
+    <EmbeddedResource Include="Forms\Travel.resx">
       <DependentUpon>Travel.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UseItem.resx">
+    <EmbeddedResource Include="Forms\UseItem.resx">
       <DependentUpon>UseItem.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
@@ -182,9 +210,22 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="The Kingdom of Britainia_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
