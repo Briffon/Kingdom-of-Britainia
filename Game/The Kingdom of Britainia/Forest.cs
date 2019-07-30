@@ -66,9 +66,9 @@ namespace The_Kingdom_of_Britainia
 
             if (chance > 50)
             {
-                //MessageBox.Show("A monster has appeared!");
-                //Fight fight = new Fight(inventory);
-                //fight.ShowDialog();
+                MessageBox.Show("A monster has appeared!");
+                Fight fight = new Fight(inventory);
+                fight.ShowDialog();
             }
 
         }
