@@ -1,0 +1,40 @@
+C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\bin\Debug\The Kingdom of Britainia.exe.config
+C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\bin\Debug\The Kingdom of Britainia.exe
+C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\bin\Debug\The Kingdom of Britainia.pdb
+C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The Kingdom of Britainia.csprojAssemblyReference.cache
+C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Form1.resources
+C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Properties.Resources.resources
+C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Town.resources
+C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The Kingdom of Britainia.csproj.GenerateResource.cache
+C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The Kingdom of Britainia.csproj.CoreCompileInputs.cache
+C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The Kingdom of Britainia.exe
+C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The Kingdom of Britainia.pdb
+C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.General_Store.resources
+C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.InventoryForm.resources
+C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Armorycs.resources
+C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.MagicStore.resources
+C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Travel.resources
+C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\bin\Debug\The Kingdom of Britainia.exe.config
+C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\bin\Debug\The Kingdom of Britainia.exe
+C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\bin\Debug\The Kingdom of Britainia.pdb
+C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The Kingdom of Britainia.csprojAssemblyReference.cache
+C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Armorycs.resources
+C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Fight.resources
+C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Forest.resources
+C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Form1.resources
+C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.General_Store.resources
+C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.InventoryForm.resources
+C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.MagicStore.resources
+C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Properties.Resources.resources
+C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Town.resources
+C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Travel.resources
+C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The Kingdom of Britainia.csproj.GenerateResource.cache
+C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The Kingdom of Britainia.csproj.CoreCompileInputs.cache
+C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The Kingdom of Britainia.exe
+C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The Kingdom of Britainia.pdb
+C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Fight.resources
+C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.Forest.resources
+C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.SpellForm.resources
+C:\Users\Britton\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.UseItem.resources
+C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.SpellForm.resources
+C:\Users\Britton Smith\Dropbox\The Kingdom of Britainia\The Kingdom of Britainia\obj\Debug\The_Kingdom_of_Britainia.UseItem.resources
